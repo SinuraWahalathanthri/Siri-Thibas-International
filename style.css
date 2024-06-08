@@ -1,0 +1,82 @@
+@font-face {
+  font-family: "Inter";
+  src: url("font/Inter/Inter-Regular.ttf") format("woff2"),
+    url("font/Inter/Inter-Regular.ttf") format("woff");
+}
+
+@font-face {
+  font-family: "Fredoka";
+  src: url("font/Fredoka/Fredoka-Regular.ttf") format("woff2"),
+    url("font/Fredoka/Fredoka-Regular.ttf") format("woff");
+}
+
+@font-face {
+  font-family: "Fredoka_Light";
+  src: url("font/Fredoka/Fredoka-Light.ttf") format("woff2"),
+    url("font/Fredoka/Fredoka-Light.ttf") format("woff");
+}
+
+@font-face {
+  font-family: "Quicksand";
+  src: url("font/Quicksand-Medium.ttf");
+}
+
+@font-face {
+  font-family: "freehand";
+  src: url("font/Freehand-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Quicksand";
+  src: url("font/Quicksand-Medium.ttf");
+}
+
+@font-face {
+font-family: "Bebas";
+src: url("font/BebasNeue-Regular.ttf");
+}
+@font-face {
+font-family: "Anton";
+src: url("font/Anton-Regular.ttf");
+}
+@font-face {
+  font-family: "SchoolBell";
+  src: url("font/Schoolbell-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Royce";
+    src: url("font/SouvenirGotURWTOTReg-W03-Rg.ttf");
+}
+
+* {
+  font-family: "Fredoka";
+}
+
+.headerColor1 {
+  background-color: #f25335;
+}
+.headerColor2 {
+  background-color: #0b1f38;
+}
+.headerText {
+  font-size: 12px;
+}
+.donateButton {
+  background-color: #f25334;
+  border: none;
+  text-align: center;
+  padding: 9.24px 30px;
+  border-radius: 12px;
+  color: white;
+  font-family: "Inter";
+  font-weight: bolder;
+  font-size: 14px;
+}
+.navbarText {
+  font-family: "Fredoka";
+  font-weight: 1000;
+  color: #7e8185;
+  text-decoration: none;
+  font-size: 14px;
+}
+
